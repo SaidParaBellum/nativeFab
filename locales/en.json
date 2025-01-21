@@ -1,0 +1,11 @@
+{
+    "loading": "Loading...",
+    "error": "Error: {{message}}",
+    "exercise": "Exercise",
+    "calories_burned": "Calories Burned",
+    "category": "Category",
+    "difficulty_level": "Difficulty Level",
+    "view_video": "View Video",
+    "close": "Close"
+  }
+  

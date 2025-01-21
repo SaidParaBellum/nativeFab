@@ -1,0 +1,10 @@
+{
+    "loading": "Загрузка...",
+    "error": "Ошибка: {{message}}",
+    "exercise": "Упражнение",
+    "calories_burned": "Потраченные калории",
+    "category": "Категория",
+    "difficulty_level": "Уровень сложности",
+    "view_video": "Посмотреть видео",
+    "close": "Закрыть"
+  }
